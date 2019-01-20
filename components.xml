@@ -98,8 +98,10 @@
         All parts of the measurement housing in contact with media are made of polyvinylidene
         fluoride (PVDF).
         </FUNCTION>
-        <NOTE>During operation, please observe the polarity of the applied voltage. The terminals are
-colour coded.</NOTE>
+        <NOTE>
+         During operation, please observe the polarity of the applied voltage. The terminals are
+        colour coded.
+        </NOTE>
     </COMPONENT>
 
     <COMPONENT>
@@ -108,9 +110,27 @@ colour coded.</NOTE>
         <PICTURE>KVA-datasheets/LH1/sensor_LH1_pic.PNG</PICTURE>
         <DATASHEET>KVA-datasheets/LH1/258172_gb.pdf</DATASHEET>
         <CODE>87363500</CODE>
-        <DESIGN></DESIGN>
-        <FUNCTION></FUNCTION>
-        <NOTE></NOTE>
+        <DESIGN>
+          The capacitive proximity sensor can be attached via an angle bracket and two lock
+          nuts. The sensor is of cylindrical design with an M18x1 thread.
+        </DESIGN>
+        <FUNCTION>
+        The operational principle of a capacitive proximity sensor is based on the evaluation of
+        the change in capacitance of a capacitor in an RC resonant circuit. The capacitance
+        increases, when an object approaches the proximity sensor. This leads to a change in
+        the oscillating action of the RC circuit which can be evaluated. The change in capaci-
+        tance largely depends on the distance, the dimensions and the dielectric constant of the
+        respective material. &lt;br&gt;
+        The proximity sensor has a PNP output, i.e. the signal line is switched to positive poten-
+        tial in the switched status. The switch is designed in the form of a normally open con-
+        tact. The load is connected between the sensor signal output and earth. A yellow light
+        emitting diode (LED) indicates the switching status. The capacitive proximity sensor
+        cannot be flush fitted. &lt;br&gt;
+        </FUNCTION>
+        <NOTE>
+        During operation, please observe the polarity of the applied voltage. The terminals are
+        colour coded.
+        </NOTE>
     </COMPONENT>
 
     <COMPONENT>
@@ -119,9 +139,27 @@ colour coded.</NOTE>
         <PICTURE>KVA-datasheets/LH2/sensor_LH2_pic.PNG</PICTURE>
         <DATASHEET>KVA-datasheets/LH2/258172_gb.pdf</DATASHEET>
         <CODE>47362505</CODE>
-        <DESIGN></DESIGN>
-        <FUNCTION></FUNCTION>
-        <NOTE></NOTE>
+        <DESIGN>
+          The capacitive proximity sensor can be attached via an angle bracket and two lock
+          nuts. The sensor is of cylindrical design with an M18x1 thread.
+        </DESIGN>
+        <FUNCTION>
+        The operational principle of a capacitive proximity sensor is based on the evaluation of
+        the change in capacitance of a capacitor in an RC resonant circuit. The capacitance
+        increases, when an object approaches the proximity sensor. This leads to a change in
+        the oscillating action of the RC circuit which can be evaluated. The change in capaci-
+        tance largely depends on the distance, the dimensions and the dielectric constant of the
+        respective material. &lt;br&gt;
+        The proximity sensor has a PNP output, i.e. the signal line is switched to positive poten-
+        tial in the switched status. The switch is designed in the form of a normally open con-
+        tact. The load is connected between the sensor signal output and earth. A yellow light
+        emitting diode (LED) indicates the switching status. The capacitive proximity sensor
+        cannot be flush fitted. &lt;br&gt;
+        </FUNCTION>
+        <NOTE>
+        During operation, please observe the polarity of the applied voltage. The terminals are
+        colour coded.
+        </NOTE>
     </COMPONENT>
 
     <COMPONENT>
@@ -130,9 +168,27 @@ colour coded.</NOTE>
         <PICTURE>KVA-datasheets/LL1/sensor_LL1_pic.PNG</PICTURE>
         <DATASHEET>KVA-datasheets/LL1/258172_gb.pdf</DATASHEET>
         <CODE>67352609</CODE>
-        <DESIGN></DESIGN>
-        <FUNCTION></FUNCTION>
-        <NOTE></NOTE>
+        <DESIGN>
+          The capacitive proximity sensor can be attached via an angle bracket and two lock
+          nuts. The sensor is of cylindrical design with an M18x1 thread.
+        </DESIGN>
+        <FUNCTION>
+        The operational principle of a capacitive proximity sensor is based on the evaluation of
+        the change in capacitance of a capacitor in an RC resonant circuit. The capacitance
+        increases, when an object approaches the proximity sensor. This leads to a change in
+        the oscillating action of the RC circuit which can be evaluated. The change in capaci-
+        tance largely depends on the distance, the dimensions and the dielectric constant of the
+        respective material. &lt;br&gt;
+        The proximity sensor has a PNP output, i.e. the signal line is switched to positive poten-
+        tial in the switched status. The switch is designed in the form of a normally open con-
+        tact. The load is connected between the sensor signal output and earth. A yellow light
+        emitting diode (LED) indicates the switching status. The capacitive proximity sensor
+        cannot be flush fitted. &lt;br&gt;
+        </FUNCTION>
+        <NOTE>
+        During operation, please observe the polarity of the applied voltage. The terminals are
+        colour coded.
+        </NOTE>
     </COMPONENT>
 
     <COMPONENT>
@@ -141,9 +197,27 @@ colour coded.</NOTE>
         <PICTURE>KVA-datasheets/LL2/sensor_LL2_pic.PNG</PICTURE>
         <DATASHEET>KVA-datasheets/LL2/258172_gb.pdf</DATASHEET>
         <CODE>67251209</CODE>
-        <DESIGN></DESIGN>
-        <FUNCTION></FUNCTION>
-        <NOTE></NOTE>
+        <DESIGN>
+          The capacitive proximity sensor can be attached via an angle bracket and two lock
+          nuts. The sensor is of cylindrical design with an M18x1 thread.
+        </DESIGN>
+        <FUNCTION>
+        The operational principle of a capacitive proximity sensor is based on the evaluation of
+        the change in capacitance of a capacitor in an RC resonant circuit. The capacitance
+        increases, when an object approaches the proximity sensor. This leads to a change in
+        the oscillating action of the RC circuit which can be evaluated. The change in capaci-
+        tance largely depends on the distance, the dimensions and the dielectric constant of the
+        respective material. &lt;br&gt;
+        The proximity sensor has a PNP output, i.e. the signal line is switched to positive poten-
+        tial in the switched status. The switch is designed in the form of a normally open con-
+        tact. The load is connected between the sensor signal output and earth. A yellow light
+        emitting diode (LED) indicates the switching status. The capacitive proximity sensor
+        cannot be flush fitted. &lt;br&gt;
+        </FUNCTION>
+        <NOTE>
+        During operation, please observe the polarity of the applied voltage. The terminals are
+        colour coded.
+        </NOTE>
     </COMPONENT>
 
     <COMPONENT>
@@ -152,9 +226,22 @@ colour coded.</NOTE>
         <PICTURE>KVA-datasheets/P1/actuator_P1_pic.PNG</PICTURE>
         <DATASHEET>KVA-datasheets/P1/170712_gb.pdf</DATASHEET>
         <CODE>23421202</CODE>
-        <DESIGN></DESIGN>
-        <FUNCTION></FUNCTION>
-        <NOTE></NOTE>
+        <DESIGN>
+        The pump is attached via a ring clamp, which is mounted on the profile plate by means
+        of two screws and T-head nuts.
+        </DESIGN>
+        <FUNCTION>
+        The centrifugal pump is suitable for the recirculation of cooling water or water in heating
+        systems. The pump is not self-priming. The motor is suitable for continuous operation.
+        Pump rotation is clockwise (see arrow on pump housing).The pump can be mounted
+        horizontally or vertically. If mounted vertically, the motor must be mounted above the
+        pump body. If it is mounted horizontally, the output of the pump must point upwards.
+        The pump must be mounted so that it is flooded.
+        </FUNCTION>
+        <NOTE>
+        During operation, please observe the polarity of the applied voltage. The terminals are
+        colour coded.
+        </NOTE>
     </COMPONENT>
 
 </CATALOG>
