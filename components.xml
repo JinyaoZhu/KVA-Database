@@ -336,19 +336,19 @@
         <DATASHEET>KVA-datasheets/T/170709_gb.pdf</DATASHEET>
         <CODE>63726387</CODE>
         <DESIGN>
-    The temperature sensor is screwed into a threaded hole in the container.
+         The temperature sensor is screwed into a threaded hole in the container.
         </DESIGN>
         <FUNCTION>
-    The temperature sensor contains a platinum resistance thermometer with interchange-
-    able measuring element.&lt;br&gt;
-    The sensor consists of a shield tube, a connection head and the measuring element.
-    During installation, ensure as accurately as possible that the sensor accepts the tempe-
-    rature to be measured. Heat absorbed or given out by the sensor is to be avoided.&lt;br&gt;
-    Resistance default value of platinum resistance thermometer Pt 100 - as a function of
-    temperature: see datasheet.
+        The temperature sensor contains a platinum resistance thermometer with interchange-
+        able measuring element.&lt;br&gt;
+        The sensor consists of a shield tube, a connection head and the measuring element.
+        During installation, ensure as accurately as possible that the sensor accepts the tempe-
+        rature to be measured. Heat absorbed or given out by the sensor is to be avoided.&lt;br&gt;
+        Resistance default value of platinum resistance thermometer Pt 100 - as a function of
+        temperature: see datasheet.
         </FUNCTION>
         <NOTE>
-    The permissible flow velocity for water is 3 m/s.
+        The permissible flow velocity for water is 3 m/s.
         </NOTE>
     </COMPONENT>
 
@@ -361,11 +361,12 @@
         <DESIGN>The proportional valve is mounted on an angle bracket and can be attached
         to an MPS profile plate using a screw and T-head nut.
         </DESIGN>
-        <FUNCTION>The proportional valve facilitates flow control of neutral gases and fluids. 
-    It can be used as a remote controllable final control element or in closed control loops.
-    The proportional valve is a directly actuated 2/2-way valve.
-    The valve piston is lifted of its seat as a function of the solenoid coil current and releases the flow from connection 
-    1 to connection 2. Once the valve is de-energised, it is closed via a reset spring.
+        <FUNCTION>
+        The proportional valve facilitates flow control of neutral gases and fluids. 
+        It can be used as a remote controllable final control element or in closed control loops.
+        The proportional valve is a directly actuated 2/2-way valve.
+        The valve piston is lifted of its seat as a function of the solenoid coil current and releases the flow from connection 
+        1 to connection 2. Once the valve is de-energised, it is closed via a reset spring.
         </FUNCTION>
         <NOTE></NOTE>
     </COMPONENT>
@@ -376,16 +377,29 @@
         <PICTURE>KVA-datasheets/V2/actuator_V2_pic.PNG</PICTURE>
         <DATASHEET>KVA-datasheets/V2/170714_gb.pdf</DATASHEET>
         <CODE>87639752</CODE>
-        <DESIGN>The proportional valve is mounted on an angle bracket and can be attached
+        <DESIGN>
+        The proportional valve is mounted on an angle bracket and can be attached
         to an MPS profile plate using a screw and T-head nut.
         </DESIGN>
-        <FUNCTION>The proportional valve facilitates flow control of neutral gases and fluids. 
-    It can be used as a remote controllable final control element or in closed control loops.
-    The proportional valve is a directly actuated 2/2-way valve.
-    The valve piston is lifted of its seat as a function of the solenoid coil current and releases the flow from connection 
-    1 to connection 2. Once the valve is de-energised, it is closed via a reset spring.
+        <FUNCTION>
+        The proportional valve facilitates flow control of neutral gases and fluids. 
+        It can be used as a remote controllable final control element or in closed control loops.
+        The proportional valve is a directly actuated 2/2-way valve.
+        The valve piston is lifted of its seat as a function of the solenoid coil current and releases the flow from connection 
+        1 to connection 2. Once the valve is de-energised, it is closed via a reset spring.
         </FUNCTION>
         <NOTE></NOTE>
+    </COMPONENT>
+
+    <COMPONENT>
+        <NO>Y1</NO>
+        <NAME>2/2-way solenoid valve</NAME>
+        <PICTURE>KVA-datasheets/Y1/actuator_Y1_pic.PNG</PICTURE>
+        <DATASHEET>KVA-datasheets/Y1/170715_gb.pdf</DATASHEET>
+        <CODE>73871200</CODE>
+        <DESIGN>The 2/2-way solenoid valve is installed in the piping by means of quick push-pull connectors.</DESIGN>
+        <FUNCTION>The 2/2-way solenoid valve is a directly actuated valve. When the coil is de-energised, the valve is closed by means of spring force.</FUNCTION>
+        <NOTE>For a firm attachment, a pipe clamp may be fitted in front and behind the valve.</NOTE>
     </COMPONENT>
 
     <COMPONENT>
